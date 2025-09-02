@@ -13,7 +13,7 @@ const allowedDomains = [
   "http://localhost:5174",
   "https://nellisadmin.netlify.app",
   "https://nellis.netlify.app",
-  "https://admin-nellis.vercel.app/",
+  "https://admin-nellis.vercel.app",
 ];
 
 app.use(
