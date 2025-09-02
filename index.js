@@ -11,8 +11,7 @@ connectDB();
 const allowedDomains = [
   "http://localhost:5173",
   "http://localhost:5174",
-  "https://nellisadmin.netlify.app",
-  "https://nellis.netlify.app",
+  "https://nellis.vercel.app",
   "https://admin-nellis.vercel.app",
 ];
 
