@@ -13,6 +13,9 @@ const allowedDomains = [
   "http://localhost:5174",
   "https://nellis.vercel.app",
   "https://admin-nellis.vercel.app",
+  "http://nellisboulevardautodealers.com",
+  "http://nellisboulevardautodealers.com/admin/login",
+
 ];
 
 app.use(
